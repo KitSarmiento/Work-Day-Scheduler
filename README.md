@@ -28,6 +28,7 @@ Application Link –
 
 • When done adding the schedules, click “Save,” and it will automatically be added to the user’s local storage.
 
+
 ## Credits
 
 Sheetal Srikumar - Tutor Support - Provide feedback and suggestions for the assignment.
@@ -43,6 +44,7 @@ Stackoverflow - https://stackoverflow.com/questions/75228484/unable-to-correctly
 W3 Schools - https://www.w3schools.com/html/html5_webstorage.asp
 
 Egghead.io - https://egghead.io/lessons/javascript-avoid-losing-text-when-refreshing-the-browser-with-localstorage
+
 
 ## License
 
