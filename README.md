@@ -19,20 +19,30 @@ Below is the instruction on how to use the Workday Scheduler. (Note: screenshots
 Application Link –
 
 • Click the deployed link of the application.
+
 • The application will provide the user with all the information needed. The header of this application indicates the date and time of the day.
+
 • The body of the application is the user’s work area. It’s divided into three columns. Time, text area, and save.
+
 • The time and text area will help the user to designate the meeting, appointment, or to-do schedule.
-• When done adding the schedules, click “Save,” and it will automatically be added to user’s local storage.
+
+• When done adding the schedules, click “Save,” and it will automatically be added to the user’s local storage.
 
 ## Credits
 
+Sheetal Srikumar - Tutor Support - Provide feedback and suggestions for the assignment.
+
 JQuery – https://code.jquery.com/jquery-3.7.0.js
+
 Google Fonts – https://fonts.google.com/specimen/Bricolage+Grotesque
 
 Helpful tutorials / Websites
+
 Stackoverflow - https://stackoverflow.com/questions/75228484/unable-to-correctly-pull-or-display-from-localstorage-using-jquery
+
 W3 Schools - https://www.w3schools.com/html/html5_webstorage.asp
-Egghead.io - https://www.w3schools.com/html/html5_webstorage.asp
+
+Egghead.io - https://egghead.io/lessons/javascript-avoid-losing-text-when-refreshing-the-browser-with-localstorage
 
 ## License
 
