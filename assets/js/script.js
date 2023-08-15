@@ -3,7 +3,7 @@ $(document).ready(function () {
   var today = dayjs();
   $("#currentDay").text(today.format("dddd, MMMM D, YYYY, h:mm a"));
 
-  //this function will create a loop for the past, present and future "time color"
+  //this function will create a loop for the past, present, and future "time color."
   function timeColorRotation() {
     var currentHour = dayjs().hour();
 
@@ -24,6 +24,9 @@ $(document).ready(function () {
   }
   timeColorRotation();
 
+  //This function will listen to the save button every time the button is clicked; The "setItem" will run to save the data to the local storage and 
+  //the "getItem" will help the application store the text in the text area even when the user refreshes the application.
+  
   var saveBtn = $(".saveBtn");
   saveBtn.on("click", function (event) {
     event.preventDefault();
