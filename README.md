@@ -21,17 +21,17 @@ Application Link –
 • Click the deployed link of the application.
 
 • The application will provide the user with all the information needed. The header of this application indicates the date and time of the day.
-![scheduler-screenshot-1](https://github.com/KitSarmiento/Work-Day-Scheduler/assets/135483936/98489ac9-4e28-4e15-a305-f0ef85a05b56)
 
 • The body of the application is the user’s work area. It’s divided into three columns. Time, text area, and save.
 
 • The time and text area will help the user to designate the meeting, appointment, or to-do schedule.
 
 • When done adding the schedules, click “Save,” and it will automatically be added to the user’s local storage.
-![scheduler-screenshot-2](https://github.com/KitSarmiento/Work-Day-Scheduler/assets/135483936/f76277b0-37a3-432c-a5c1-94e6adf124ef)
 
 
 ## Credits
+
+Sheetal Srikumar - Tutor Support - Provide feedback and suggestions for the assignment.
 
 JQuery – https://code.jquery.com/jquery-3.7.0.js
 
@@ -43,7 +43,8 @@ Stackoverflow - https://stackoverflow.com/questions/75228484/unable-to-correctly
 
 W3 Schools - https://www.w3schools.com/html/html5_webstorage.asp
 
-Egghead.io - https://www.w3schools.com/html/html5_webstorage.asp
+Egghead.io - https://egghead.io/lessons/javascript-avoid-losing-text-when-refreshing-the-browser-with-localstorage
+
 
 ## License
 
