@@ -6,7 +6,7 @@ This week's challenge is creating a simple calendar application that allows user
 
 This project was created to be used for the user to be able to identify their own schedule for the day. This is only intended to save the actual date of the scheduled appointments and meetings. The user must fill out the workday planner every day. This application will save the day’s schedule and automatically reset the following day. Note that this application was set from 9:00 AM to 5:00 PM.
 
-Link to the final project -
+Link to the final project - https://github.com/KitSarmiento/Work-Day-Scheduler/deployments/github-pages
 
 ## Installation
 
@@ -16,11 +16,13 @@ Coding-boot-camp - Starter Code was cloned from https://github.com/coding-boot-c
 
 Below is the instruction on how to use the Workday Scheduler. (Note: screenshots were added to the assets folder for reference.)
 
-Application Link –
+Application Link – https://github.com/KitSarmiento/Work-Day-Scheduler/deployments/github-pages
 
 • Click the deployed link of the application.
 
 • The application will provide the user with all the information needed. The header of this application indicates the date and time of the day.
+
+![scheduler-screenshot-1](https://github.com/KitSarmiento/Work-Day-Scheduler/assets/135483936/ca0e18f8-476a-429f-adc7-50b5aca0c3e8)
 
 • The body of the application is the user’s work area. It’s divided into three columns. Time, text area, and save.
 
@@ -28,6 +30,7 @@ Application Link –
 
 • When done adding the schedules, click “Save,” and it will automatically be added to the user’s local storage.
 
+![scheduler-screenshot-2](https://github.com/KitSarmiento/Work-Day-Scheduler/assets/135483936/8fb81c96-9ddc-4d60-b424-9154ce765ca9)
 
 ## Credits
 
